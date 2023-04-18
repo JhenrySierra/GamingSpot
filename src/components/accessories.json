@@ -1,0 +1,84 @@
+{
+    "accessories": [
+        {
+            "id": 1,
+            "name": "Wireless Gaming Mouse",
+            "brand": "Logitech",
+            "price": 49.99,
+            "description": "This wireless gaming mouse features a high-precision sensor and customizable RGB lighting.",
+            "image": "https://example.com/images/mouse.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Mechanical Gaming Keyboard",
+            "brand": "Razer",
+            "price": 99.99,
+            "description": "This mechanical gaming keyboard features customizable RGB lighting and programmable macro keys.",
+            "image": "https://example.com/images/keyboard.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Gaming Headset",
+            "brand": "HyperX",
+            "price": 79.99,
+            "description": "This gaming headset features high-quality sound and a comfortable, over-ear design.",
+            "image": "https://example.com/images/headset.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Gaming Chair",
+            "brand": "DXRacer",
+            "price": 299.99,
+            "description": "This gaming chair features adjustable armrests and a comfortable, ergonomic design.",
+            "image": "https://example.com/images/chair.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Gaming Monitor",
+            "brand": "Asus",
+            "price": 399.99,
+            "description": "This 27-inch gaming monitor features a 144Hz refresh rate and 1ms response time for smooth gameplay.",
+            "image": "https://example.com/images/monitor.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Gaming Laptop",
+            "brand": "MSI",
+            "price": 1499.99,
+            "description": "This gaming laptop features a powerful Intel Core i7 processor and Nvidia GeForce RTX graphics for high-performance gaming.",
+            "image": "https://example.com/images/laptop.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Gaming Desk",
+            "brand": "Atlantic",
+            "price": 149.99,
+            "description": "This gaming desk features a carbon fiber texture desktop and a cable management system.",
+            "image": "https://example.com/images/desk.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Gaming Controller",
+            "brand": "Xbox",
+            "price": 59.99,
+            "description": "This gaming controller features textured grips and Bluetooth connectivity.",
+            "image": "https://example.com/images/controller.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Gaming Speakers",
+            "brand": "Creative",
+            "price": 89.99,
+            "description": "These gaming speakers feature a 2.1 sound system with customizable RGB lighting.",
+            "image": "https://example.com/images/speakers.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Gaming Mousepad",
+            "brand": "Corsair",
+            "price": 29.99,
+            "description": "This gaming mousepad features a non-slip rubber base and a micro-textured surface for precise mouse movement.",
+            "image": "https://example.com/images/mousepad.jpg"
+        }
+    ]
+}

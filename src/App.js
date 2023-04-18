@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <Router>
         <Navbar />
-        <ItemListContainer />
+        <ItemListContainer greeting={'Welcome to your Gaming Spot'}/>
         <Routes>
           <Route path="/" element={<Shop />}/>
           <Route path="/cart" element={<Cart />}/>

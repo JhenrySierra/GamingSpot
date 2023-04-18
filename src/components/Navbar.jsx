@@ -1,7 +1,6 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
-import { ShoppingCart } from 'phosphor-react'
-import { CartWidget } from "./CartWidget"
+import React from 'react';
+import { Link } from 'react-router-dom';
+import { CartWidget } from "./CartWidget";
 
 export const Navbar = () => {
     return (
@@ -16,7 +15,6 @@ export const Navbar = () => {
                 <Link to="/chairs">Gaming Chairs</Link>
                 <Link to="/deskmats">Desk Mats</Link>
                 <Link to="/cart">
-                    <ShoppingCart size={32} color='green' className='cartContainer'/>
                     <CartWidget />
                 </Link>
             </div>
