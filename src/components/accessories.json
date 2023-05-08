@@ -187,7 +187,7 @@
             "price": 249.99,
             "image": "https://media.istockphoto.com/id/1305168473/photo/all-angels-view-of-black-and-yellow-office-chair-isolated-on-white.jpg?b=1&s=612x612&w=0&k=20&c=9WYbI3e8XS7GeOT7ud5ohPpzK0qqYfee8q82dwAVY4c=",
             "quantity": 7,
-            "category": "Gaming Chair"
+            "category": "Chair"
         },
         {
             "id": 22,
@@ -196,7 +196,7 @@
             "price": 329.99,
             "image": "https://i5.walmartimages.com/asr/096b1dca-a0e7-4de1-8e40-3fa06ae11793.957a95e71bd9bcb2d7e7bc73d882b73e.jpeg",
             "quantity": 4,
-            "category": "Gaming Chair"
+            "category": "Chair"
         },
         {
             "id": 23,
@@ -205,7 +205,7 @@
             "price": 199.99,
             "image": "https://cdn.shopify.com/s/files/1/0087/3306/5252/products/02._5134801.jpg?v=1666984531",
             "quantity": 8,
-            "category": "Gaming Chair"
+            "category": "Chair"
         },
         {
             "id": 24,
@@ -214,7 +214,7 @@
             "price": 299.99,
             "image": "https://ak1.ostkcdn.com/images/products/is/images/direct/4bebfee2773ada8967d15a81fb1f5bab7fe56402/Reclining-Adjustable-Gaming-Chair.jpg",
             "quantity": 5,
-            "category": "Gaming Chair"
+            "category": "Chair"
         },
         {
             "id": 25,
@@ -223,7 +223,7 @@
             "price": 399.99,
             "image": "https://www.bigw.com.au/medias/sys_master/images/images/h78/h23/34131547291678.jpg",
             "quantity": 2,
-            "category": "Gaming Chair"
+            "category": "Chair"
         },
         {
             "id": 26,
@@ -232,7 +232,7 @@
             "price": 259.99,
             "image": "https://images.thdstatic.com/productImages/fec0a354-c1d0-40f6-bba6-a22a01a4e702/svn/green-costway-gaming-chairs-hw62042gn-64_1000.jpg",
             "quantity": 6,
-            "category": "Gaming Chair"
+            "category": "Chair"
         },
         {
             "id": 27,
@@ -241,7 +241,7 @@
             "price": 179.99,
             "image": "https://m.media-amazon.com/images/I/61rlc+rV6UL._SL1500_.jpg",
             "quantity": 10,
-            "category": "Gaming Chair"
+            "category": "Chair"
         },
         {
             "id": 28,
@@ -250,7 +250,7 @@
             "price": 329.99,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSkRUdmLANB9XBpNZBElFD68MtnkbBcT5f1Q&usqp=CAU",
             "quantity": 3,
-            "category": "Gaming Chair"
+            "category": "Chair"
         },
         {
             "id": 29,
@@ -259,7 +259,7 @@
             "price": 449.99,
             "image": "https://www.happybeds.co.uk/cdn-cgi/image/fit=contain,f=auto,width=1000/media/catalog/product/cache/2760f187cb7d1bcdeca5818f247800d3/c/o/comet_chair_1.jpg",
             "quantity": 1,
-            "category": "Gaming Chair"
+            "category": "Chair"
         },
         {
             "id": 30,
@@ -268,7 +268,7 @@
             "price": 219.99,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDLPNVxIbCCUduoMLe5jVm6thJZ5RC6dipw&usqp=CAU",
             "quantity": 9,
-            "category": "Gaming Chair"
+            "category": "Chair"
         },
         {
             "id": 31,
@@ -277,7 +277,7 @@
             "price": 19.99,
             "image": "https://media.steelseriescdn.com/thumbs/filer_public/d3/c4/d3c419a0-df9c-4faa-8ad5-82fda0ced7f1/1200x_buy_qck-prism_m_01.jpg__1850x800_q100_crop-scale_optimize_subsampling-2.webp",
             "quantity": 20,
-            "category": "Desk Mat"
+            "category": "Mat"
         },
         {
             "id": 32,
@@ -286,7 +286,7 @@
             "price": 24.99,
             "image": "https://hardcorecomputacion.com.ar/wp-content/uploads/2016/09/padx-300x300.jpg",
             "quantity": 15,
-            "category": "Desk Mat"
+            "category": "Mat"
         },
         {
             "id": 33,
@@ -295,7 +295,7 @@
             "price": 39.99,
             "image": "https://hardcorecomputacion.com.ar/wp-content/uploads/2016/01/G240-300x300.jpg",
             "quantity": 10,
-            "category": "Desk Mat"
+            "category": "Mat"
         },
         {
             "id": 34,
@@ -304,7 +304,7 @@
             "price": 29.99,
             "image": "https://hardcorecomputacion.com.ar/wp-content/uploads/2020/06/4680_800-300x300.jpg",
             "quantity": 18,
-            "category": "Desk Mat"
+            "category": "Mat"
         },
         {
             "id": 35,
@@ -313,7 +313,7 @@
             "price": 21.99,
             "image": "https://hardcorecomputacion.com.ar/wp-content/uploads/2020/07/Pad_HyperX_Fury_S_Pro_Small_290mm_x_240mm-300x300.jpg",
             "quantity": 22,
-            "category": "Desk Mat"
+            "category": "Mat"
         },
         {
             "id": 36,
@@ -322,7 +322,7 @@
             "price": 17.99,
             "image": "https://hardcorecomputacion.com.ar/wp-content/uploads/2019/09/2018041918381969_src-300x300.jpg",
             "quantity": 25,
-            "category": "Desk Mat"
+            "category": "Mat"
         },
         {
             "id": 37,
@@ -331,7 +331,7 @@
             "price": 14.99,
             "image": "https://hardcorecomputacion.com.ar/wp-content/uploads/2020/03/hx-product-mousepad-fury-s-speed-xlarge-hxmpfs-1-zm-lg-300x300.jpg",
             "quantity": 30,
-            "category": "Desk Mat"
+            "category": "Mat"
         },
         {
             "id": 38,
@@ -340,7 +340,7 @@
             "price": 26.99,
             "image": "https://hardcorecomputacion.com.ar/wp-content/uploads/2020/03/hx-product-mousepad-fury-s-speed-curl-2-zm-lg-300x300.jpg",
             "quantity": 12,
-            "category": "Desk Mat"
+            "category": "Mat"
         },
         {
             "id": 39,
@@ -349,7 +349,7 @@
             "price": 18.99,
             "image": "https://hardcorecomputacion.com.ar/wp-content/uploads/2020/08/26-300x300.jpg",
             "quantity": 28,
-            "category": "Desk Mat"
+            "category": "Mat"
         },
         {
             "id": 40,
@@ -358,7 +358,7 @@
             "price": 22.99,
             "image": "https://hardcorecomputacion.com.ar/wp-content/uploads/2020/10/D_614400-MLA43600450318_092020-O.jpg",
             "quantity": 24,
-            "category": "Desk Mat"
+            "category": "Mat"
         }
     ]
 }

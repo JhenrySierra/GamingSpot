@@ -10,10 +10,10 @@ export const Navbar = () => {
             </div>
             <div className='links'>
                 <Link to="/">Shop Accessories</Link>
-                <Link to="/mouse">Mouse</Link>
-                <Link to="/keyboards">Keyboards</Link>
-                <Link to="/chairs">Gaming Chairs</Link>
-                <Link to="/deskmats">Desk Mats</Link>
+                <Link to="/Mouse">Mouse</Link>
+                <Link to="/Keyboard">Keyboards</Link>
+                <Link to="/Chair">Gaming Chairs</Link>
+                <Link to="/Mat">Desk Mats</Link>
                 <Link to="/cart">
                     <CartWidget />
                 </Link>
