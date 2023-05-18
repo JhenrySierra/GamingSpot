@@ -35,11 +35,11 @@ The Shop component serves as the main page of the shop. It renders the Accessori
 
 The project utilizes the following technologies:
 
-React: A JavaScript library for building user interfaces.
-React Router: A library for routing in a React application.
-HTML and CSS: Markup and styling for the application's components.
-JSON: Data files containing information about the gaming accessories.
-Phosphor Icons: A library providing icons for the cart widget.
+#### React: A JavaScript library for building user interfaces.
+#### React Router: A library for routing in a React application.
+#### HTML and CSS: Markup and styling for the application's components.
+#### JSON: Data files containing information about the gaming accessories.
+#### Phosphor Icons: A library providing icons for the cart widget.
 
 ### Future Improvements
 
